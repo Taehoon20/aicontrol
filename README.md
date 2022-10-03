@@ -2,25 +2,13 @@
 
 ### 안녕하세요 22살 김태훈입니다.
 
-*기울기*
-_기울기_
-**글씨 굵기**
-__글씨 굵기__
-~~취소선~~
->인용글
-> > 인용글 2
-> > > 인용글 3
-+ 목록1
-   + 목록 1_1
-      +목록1_1_1
-<!-- Table -->
-|--:|:--| 
-|cell1|cell2|
-|cell1|cell2|
-|cell1|cell2|
-|cell1|cell2|
-<!--code-->
-To print message in the console, use `console,log('your message')`and..
+
+#목록
+>_저의 나이는 22살입니다._
+> > _저의 학교는 창원 폴리텍 입니다._
+> > > _저의 학교 과는 스마트 팩토리입니다.
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taehoon20)]
 
