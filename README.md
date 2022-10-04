@@ -9,7 +9,7 @@
 > > > _저의 학교 과는 스마트 팩토리입니다._
 
 
-[![my maill](file:///C:/Users/xogns/Downloads/applemusic.svg)](xogns814@naver.com)
+[![좋아하는 ](https://cdn.icon-icons.com/icons2/564/PNG/512/Music_icon-icons.com_54163.png)](https://www.youtube.com/watch?v=acVLMP3sa9s){: width="100" height="100"}
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taehoon20)]
