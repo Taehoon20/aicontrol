@@ -1,4 +1,4 @@
-# <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#F8DC75</font></font>창원 폴리텍 스마트팩토리 B반 김태훈
+# 창원 폴리텍 스마트팩토리 B반 김태훈
 
 ### 안녕하세요 22살 김태훈입니다.
 
