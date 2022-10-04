@@ -15,7 +15,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taehoon20)
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=오늘%20하루도%20행복하세요^.^&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=오늘%20하루도%20행복하세요^.^&fontSize=100)
 
 
 
