@@ -3,7 +3,7 @@
 ### 안녕하세요 22살 김태훈입니다.
 
 
-#목록<img src="https://img.shields.io/badge/006272?style=flat-square&logo=hi&logoColor=black"/>
+#목록<img src="https://img.shields.io/badge/#006272?style=flat-square&logo=hi&logoColor=black"/>
 >_저의 나이는 22살입니다._
 > > _저의 학교는 창원 폴리텍 입니다._
 > > > _저의 학교 과는 스마트 팩토리입니다._
