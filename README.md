@@ -11,7 +11,7 @@
 
 [![좋아하는 ](https://cdn.icon-icons.com/icons2/564/PNG/512/Music_icon-icons.com_54163.png)](https://www.youtube.com/watch?v=acVLMP3sa9s)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taehoon20)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taehoon20)
 
 
 
