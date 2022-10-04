@@ -13,7 +13,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taehoon20)]
 
-https://gist.github.com/ninanung/2b81a5db946c26c98c573e3662a92b62
 
 
 
