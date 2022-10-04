@@ -10,6 +10,7 @@
 
 <a href="https://www.youtube.com/watch?v=acVLMP3sa9s"><img src="https://img.shields.io/badge/좋아하는 음악-FF0000?style=flat-square&logo=FF0000&logoColor=RED"/>
 <a href="https://github.com/Taehoon20"><img src="https://img.shields.io/badge/내 깃허브-181717?style=flat-square&logo=1817170&logoColor=blaCK"/>
+<a href="https://github.com/Taehoon20"><img src="https://img.shields.io/badge/우리학교-4285F4?style=flat-square&logo=4285F4&logoColor=blue"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taehoon20)
